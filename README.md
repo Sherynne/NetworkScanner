@@ -2,7 +2,7 @@
 
 A high-performance, multi-threaded network reconnaissance tool built with Python. This project demonstrates core concepts in network programming, concurrency, and security auditing.
 
-## 🚀 Features
+##  Features
 - **Multi-threaded Scanning:** Utilizes Python's `threading` library to scan hundreds of ports simultaneously.
 - **Service Banner Grabbing:** Identifies running services and versions to assist in vulnerability assessment.
 - **Automated Logging:** Generates time-stamped text reports for every scan, ensuring traceability for security audits.
