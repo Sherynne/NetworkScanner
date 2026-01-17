@@ -9,7 +9,7 @@ A high-performance, multi-threaded network reconnaissance tool built with Python
 - **Robust Error Handling:** Specifically handles socket timeouts and connection errors to ensure stability.
 
 ##  Technical Skills Demonstrated
-- **Networking:** TCP/IP handshakes, socket programming, and hostname resolution.
+- **Networking:** TCP/IP handshakes, socket programming and hostname resolution.
 - **Concurrency:** Managing shared resources using `threading.Lock`.
 - **CLI Development:** Building user-friendly interfaces with `argparse`.
 - **File I/O:** Persistent data storage and structured logging.
