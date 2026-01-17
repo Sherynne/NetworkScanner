@@ -1,7 +1,7 @@
 # PyScan-Sentinel v1.3
 
 **PyScan-Sentinel** is a high-performance, multi-threaded network reconnaissance tool built with Python.
-This project demonstrates core concepts in **network programming**, **concurrency**, and **security auditing**, making it ideal for educational use and portfolio demonstration.
+This project demonstrates core concepts in **network programming**, **concurrency** and **security auditing**, making it ideal for educational use and portfolio demonstration.
 
 ---
 
