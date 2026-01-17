@@ -79,7 +79,7 @@ python SentinelScanner.py -t 127.0.0.1 -s 1 -e 1024
 
 This tool is intended **strictly for educational and ethical testing purposes**.
 Unauthorized scanning or use against systems without explicit, mutual consent is illegal.
-The end user is solely responsible for complying with all applicable local, state, and federal laws.
+The end user is solely responsible for complying with all applicable local, state and federal laws.
 
 ---
 
